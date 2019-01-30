@@ -1,7 +1,7 @@
 ---
-title: git command图文说明
+title: Git command图文说明
 date: 2019-01-30 10:43:34
-tags: git
+tags: Git
 ---
 ### 核心git命令介绍&记录
 - `git commit`
