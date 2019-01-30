@@ -27,8 +27,8 @@ background:
 
 menu:
   # Basic Menu
-  Home: true
   Archives: true
+  Home: true
   Categories: true
   Tags: true
 
