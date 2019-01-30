@@ -22,7 +22,7 @@ tags: Docker
 - (5)docker save 56bd3610a51d > ./bugsos.tar 导出容器保存为镜像；
 - (6)Docker tag可以给镜像命名；（docker tag 5182e96772bf httpd:1.0）
 
- ![](images/docker_img.png)
+ ![](docker/docker_img.png)
 
 #### 遇到的问题&解决方案
 - (1)docker build -t centos:httpd .
